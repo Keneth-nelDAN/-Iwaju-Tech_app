@@ -45,7 +45,8 @@ This project is a starting point for a Flutter application.
 ###### ####### Ressources
 
 - [Cours / Tuto débutant] Apprendre Javascript de A à Z – Les bases (1/6) (https://youtu.be/Ew7KG2j8eII?si=MS3gnJgz5GkJwsov)
--
+- Introduction à la création d'une application mobile avec React Native et Visual Studio Code (https://youtu.be/gXrBpt9MLzE?si=no1aPYnTXnjIx8xl)
+
 
 
 
