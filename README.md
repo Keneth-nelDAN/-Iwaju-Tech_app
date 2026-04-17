@@ -14,6 +14,11 @@ This project is a starting point for a Flutter application.
     Il s'occupe des échanges grâce à Socket.io
 # -ÉMETTEUR (Mobile - React Native)
     Utilise react-native-webrtc pour capturer l'écran et envoyer le flux.
+    - Installation:
+            npm install react-native-webrtc socket.io-client
+    - Configuration Native
+        Ajout des permissions dans AndroidManifest.xml (FOREGROUND_SERVICE, RECORD_AUDIO, CAMERA) et gestion de Media Projection Service pour que l'enregistrement continue même si l'app est en arrière-plan.
+    - Utilisation de getDisplayMedia au lieu de getUserMedia
 # -RÉCEPTEUR (Desktop/Web - React)
     Utilise l'API WebRTC native du navigateur pour recevoir et afficher le flux.
 
