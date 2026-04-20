@@ -44,8 +44,12 @@ This project is a starting point for a Flutter application.
 
 ###### ####### Ressources
 
+- https://reactnative.dev/docs/set-up-your-environment : Débuter en React Native
+- https://nodejs.org/en/download : Mise à jour de ma version de node et npm
+- https://developer.android.com/studio?hl=fr : Installation d'Android Studio
 - [Cours / Tuto débutant] Apprendre Javascript de A à Z – Les bases (1/6) (https://youtu.be/Ew7KG2j8eII?si=MS3gnJgz5GkJwsov)
 - Introduction à la création d'une application mobile avec React Native et Visual Studio Code (https://youtu.be/gXrBpt9MLzE?si=no1aPYnTXnjIx8xl)
+- apprendre réact-native : #1 configuration environnement et creation d'un projet react-native (https://youtu.be/cZhH-8ihMno?si=6tK2uA0PzD2FYQfV)
 
 
 
